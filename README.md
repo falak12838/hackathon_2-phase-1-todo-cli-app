@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Todo CLI Application
 
 A simple command-line todo application with in-memory storage that allows users to add, view, update, delete, and mark tasks as complete.
@@ -63,3 +64,7 @@ The application follows a modular architecture:
 ## License
 
 This project is open source and available under the MIT License.
+=======
+# hackathon_2-phase-1-todo-cli-app
+Phase 1: In-memory Python CLI Todo application for Hackathon.
+>>>>>>> e25a863ceb32b0a9f886b8aab96afdf1b3129fe8
